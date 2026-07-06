@@ -1,6 +1,4 @@
-</style>
-
-                <path id='path0'>
+ <path id='path0'>
                             <!-- Single line -->
                                 <animate id='d0' attributeName='d' begin='0s;d0.end'
                     dur='4000ms' fill='remove'
@@ -14,7 +12,6 @@
             Tanvir Ahmed
         </textPath>
     </text>
-</svg>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Md.+Shahin+Uz+Zaman" alt="Typing SVG" />
 </p>
