@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=20&duration=2000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=Security+Researcher+·+Bug+Bounty+Hunter+.+Web+App+Pentester+.+Digital+Forensics+.+osint" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=20&duration=2000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=Security+Researcher+Bug+Bounty+Hunter+Web+App+Pentester+Digital+Forensics+osint" alt="Typing SVG">
 </p>
