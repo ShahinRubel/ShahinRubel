@@ -1,3 +1,16 @@
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 700 50'
+    style='background-color: #00000000;'
+    width='700px' height='50px'>
+
+    <style>
+@font-face {
+  font-family: 'Georgia';
+  font-style: normal;
+  font-weight: 700;
+  font-display: fallback;
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Md.+Shahin+Uz+Zaman" alt="Typing SVG" />
 </p>
