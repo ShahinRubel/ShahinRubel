@@ -36,3 +36,7 @@
     </text>
 
 </svg>
+
+<h1 align="center">
+  <img src="./typing.svg" alt="Typing SVG">
+</h1>
