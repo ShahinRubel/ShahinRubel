@@ -1,3 +1,16 @@
+<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 700 50'
+    style='background-color: #00000000;'
+    width='700px' height='50px'>
+
+    <style>
+@font-face {
+  font-family: 'Georgia';
+  font-style: normal;
+  font-weight: 700;
+  font-display: fallback;
 </style>
 
                 <path id='path0'>
